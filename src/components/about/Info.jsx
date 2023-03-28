@@ -4,7 +4,7 @@ const Info = () => {
     return (
         <div className="about__info grid">
         <div className="about__box">
-        <i class='bx bx-award about__icon'></i>
+        <i className='bx bx-award about__icon'></i>
 
             <h3 className="about__title">
                 Experience
@@ -15,7 +15,7 @@ const Info = () => {
         </div>
 
         <div className="about__box">
-        <i class='bx bx-briefcase about__icon'></i>
+        <i className='bx bx-briefcase about__icon'></i>
             <h3 className="about__title">
                 Completed
             </h3>
@@ -25,7 +25,7 @@ const Info = () => {
         </div>
 
         <div className="about__box">
-        <i class='bx bx-support about__icon' ></i>
+        <i className='bx bx-support about__icon' ></i>
             <h3 className="about__title">
                 Support
             </h3>

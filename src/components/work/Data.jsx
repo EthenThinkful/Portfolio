@@ -8,13 +8,13 @@ export const projectsData = [
         id: 1,
         image: Work1,
         title: 'Restaurant reservations',
-        category: 'full stack'
+        category: 'fullstack'
     },
     {
         id: 2,
         image: Work2,
         title: 'Study card application',
-        category: 'app'
+        category: 'frontend'
     },
     {
         id: 3,
@@ -26,6 +26,21 @@ export const projectsData = [
         id: 4,
         image: Work4,
         title: 'Flappy dot',
-        category: 'game app'
+        category: 'frontend'
+    }
+]
+
+export const projectsNav = [
+    {
+        name: 'all',
+    },
+    {
+        name: 'frontend',
+    },
+    {
+        name: 'backend',
+    },
+    {
+        name: 'fullstack',
     }
 ]

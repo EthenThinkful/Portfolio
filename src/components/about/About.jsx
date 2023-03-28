@@ -19,12 +19,11 @@ const About = () => {
             interface, I have years of experience and many clients are happy
             with the projects carried out.
           </p>
-
-          <a download="" href={CV} className="button button--flex">
+          <a download="" href={CV} className="button button--flex about__button">
             Download CV
           </a>
-          <svg
-                class="button__icon"
+          {/* <svg
+                className="button__icon"
                 xmlns="http://www.w3.org/2000/svg"
                 width="24"
                 height="24"
@@ -47,7 +46,7 @@ const About = () => {
                   d="M11.25 17.7502H7.25C6.84 17.7502 6.5 17.4102 6.5 17.0002C6.5 16.5902 6.84 16.2502 7.25 16.2502H11.25C11.66 16.2502 12 16.5902 12 17.0002C12 17.4102 11.66 17.7502 11.25 17.7502Z"
                   fill="var(--container-color)"
                 ></path>
-              </svg>
+              </svg> */}
         </div>
       </div>
     </section>
