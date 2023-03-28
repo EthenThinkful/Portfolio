@@ -44,7 +44,7 @@ const Works = () => {
 
       <div className="work__container container grid">
         {projects.map((item) => {
-          return <WorksItems item={item} key={item.id} />;
+          return <WorksItems item={item} key={item.id} href={item.url}/>;
         })}
       </div>
     </div>

@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
-import AboutImg from "../../assets/assets/EthenRoth.JPG";
-import CV from "../../assets/assets/John-Cv.pdf";
+import AboutImg from "../../assets/assets/EthenRoth.png";
+import CV from "../../assets/assets/Ethen_Roth_Resume.pdf";
 import Info from "./Info";
 
 const About = () => {
@@ -15,12 +15,19 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            Web developer / Engineer, I create web pages with UI / UX user
-            interface, I have years of experience and many clients are happy
-            with the projects carried out.
+            Software engineer/developer. I've worked alongside professionals
+            while in boot camp and not, and have been fortunate enough to gain
+            invaluable knowledge about programming. I've worked on several
+            different projects, many of which have forced me to learn new
+            technology on a whim. I’m highly adaptable and would love to
+            continue driving my experience!
           </p>
-          <a download="" href={CV} className="button button--flex about__button">
-            Download CV
+          <a
+            download=""
+            href={CV}
+            className="button button--flex about__button"
+          >
+            Download Resume
           </a>
           {/* <svg
                 className="button__icon"

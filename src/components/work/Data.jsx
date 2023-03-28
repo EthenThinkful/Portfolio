@@ -1,32 +1,36 @@
-import Work1 from "../../assets/assets/work1.jpg";
-import Work2 from "../../assets/assets/work2.jpg";
-import Work3 from "../../assets/assets/work3.jpg";
-import Work4 from "../../assets/assets/work4.jpg";
+import Work1 from "../../assets/assets/restaurantReservations.png";
+import Work2 from "../../assets/assets/flashCardApp.png";
+import Work3 from "../../assets/assets/weLoveMovies.png";
+import Work4 from "../../assets/assets/grubDash.png";
 
 export const projectsData = [
     {
         id: 1,
         image: Work1,
         title: 'Restaurant reservations',
-        category: 'fullstack'
+        category: 'fullstack',
+        url: 'https://frontend-rr-er.herokuapp.com/dashboard'
     },
     {
         id: 2,
         image: Work2,
         title: 'Study card application',
-        category: 'frontend'
+        category: 'frontend',
+        url: 'https://github.com/EthenThinkful/FlashCardApp'
     },
     {
         id: 3,
         image: Work3,
         title: 'Movie reviews',
-        category: 'backend'
+        category: 'backend',
+        url: 'https://github.com/EthenThinkful/WeLoveMovies'
     },
     {
         id: 4,
         image: Work4,
-        title: 'Flappy dot',
-        category: 'frontend'
+        title: 'GrubDash',
+        category: 'fullstack',
+        url: 'https://starter-grub-dash-front-end-tawny.vercel.app/'
     }
 ]
 
