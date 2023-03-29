@@ -3,7 +3,8 @@
     position: fixed;
     top: 0;
     left: 0;
-    z-index: var(--z-fixed);
+    /* z is 3d */
+    z-index: var(--z-fixed); 
     background-color: var(--body-color);
 }
 

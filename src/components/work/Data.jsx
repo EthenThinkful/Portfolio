@@ -23,7 +23,7 @@ export const projectsData = [
         image: Work3,
         title: 'Movie reviews',
         category: 'backend',
-        url: 'https://github.com/EthenThinkful/WeLoveMovies'
+        url: 'https://we-love-movies-frontend-red.vercel.app/'
     },
     {
         id: 4,
