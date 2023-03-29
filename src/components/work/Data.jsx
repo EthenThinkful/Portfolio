@@ -30,7 +30,7 @@ export const projectsData = [
         image: Work4,
         title: 'GrubDash',
         category: 'fullstack',
-        url: 'https://starter-grub-dash-front-end-tawny.vercel.app/'
+        url: 'https://grub-dash-front-end-tawny.vercel.app/'
     }
 ]
 
