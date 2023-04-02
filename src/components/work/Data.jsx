@@ -9,7 +9,7 @@ export const projectsData = [
         image: Work1,
         title: 'Restaurant reservations',
         category: 'fullstack',
-        url: 'https://frontend-rr-er.herokuapp.com/dashboard'
+        url: 'https://attemptfive.vercel.app/dashboard'
     },
     {
         id: 2,
