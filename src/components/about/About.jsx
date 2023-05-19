@@ -15,12 +15,15 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            Software engineer/developer. Attending a tech bootcamp provided me
-            with a wealth of experience in a relatively short period of time.
-            I've learned from professional mentors and instructors about industry best practices, 
-            as well as collaboration with colleagues via GitHub. Overall, 
-            the experience provided me with a strong foundation in software development
-            and has helped me to continue to expand my horizons.
+            Hi, my name is Ethen and I am a Software Engineering Bootcamp
+            graduate with over a year of experience in developing websites and
+            full stack applications. I am eager to gain further experience as a
+            junior developer and am diligently working towards my growth through
+            refining my technical and general skills. I am interested in any
+            opportunities which prize innovation, dedication, growth, and
+            communication. Please don’t hesitate to reach out and thank you for
+            taking the time to look at my LinkedIn. I will hope to hear from you
+            soon!
           </p>
           <a
             download=""
