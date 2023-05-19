@@ -19,9 +19,7 @@ const About = () => {
             junior developer and am diligently working towards my growth through
             refining my technical and general skills. I am interested in any
             opportunities which prize innovation, dedication, growth, and
-            communication. Please don’t hesitate to reach out and thank you for
-            taking the time to look at my LinkedIn. I will hope to hear from you
-            soon!
+            communication. 
           </p>
           <a
             download=""
