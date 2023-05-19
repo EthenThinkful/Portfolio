@@ -15,9 +15,7 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            Hi, my name is Ethen and I am a Software Engineering Bootcamp
-            graduate with over a year of experience in developing websites and
-            full stack applications. I am eager to gain further experience as a
+            I am eager to gain further experience as a
             junior developer and am diligently working towards my growth through
             refining my technical and general skills. I am interested in any
             opportunities which prize innovation, dedication, growth, and
