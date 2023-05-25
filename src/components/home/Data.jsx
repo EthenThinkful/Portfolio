@@ -9,8 +9,9 @@ const Data = () => {
       </h1>
       <h3 className="home__subtitle">Software Engineer</h3>
       <p className="home__description">
-        I'm a passionate Software Engineer from Denver, Colorado, looking to
-        break into the professional atmosphere!
+            Hi, my name is Ethen and I am a Software Engineering Bootcamp
+            graduate with over a year of experience in developing websites and
+            full stack applications.
       </p>
 
       {/* <a href="#contact" className="button button--flex">

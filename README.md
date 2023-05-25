@@ -1,3 +1,8 @@
+Live Project: https://ethenportfolio.vercel.app/
+
+![portfolioss](https://user-images.githubusercontent.com/104235709/235526334-5a903cf1-e39f-41c8-96af-0c134d359b83.PNG)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
