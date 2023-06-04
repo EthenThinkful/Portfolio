@@ -2,14 +2,14 @@ import Work1 from "../../assets/assets/restaurantReservations.png";
 import Work2 from "../../assets/assets/optichads.PNG";
 import Work3 from "../../assets/assets/weLoveMoviesRe.png";
 import Work4 from "../../assets/assets/clinicals.PNG";
-import Work5 from "../../assets/assets/flashCardApp.png";
-import Work6 from "../../assets/assets/grubDash.png";
+import Work5 from "../../assets/assets/flashCardAppRe.png";
+import Work6 from "../../assets/assets/grubDashRe.png";
 
 export const projectsData = [
     {
         id: 1,
         image: Work1,
-        title: 'Restaurant reservations',
+        title: 'Restaurant Reservations',
         category: 'fullstack',
         url: 'https://periodictables.vercel.app/dashboard',
         url2: 'https://github.com/EthenThinkful/Restaurant-Reservation-App'
@@ -18,14 +18,14 @@ export const projectsData = [
         id: 2,
         image: Work2,
         title: 'OptiChads NFT Marketplace',
-        category: 'fullstack',
+        category: 'frontend',
         url: 'https://optichads.vercel.app/',
         url2: 'https://github.com/DistractionBoy/optichads'
     },
     {
         id: 3,
         image: Work3,
-        title: 'Movie reviews',
+        title: 'Movie Reviews',
         category: 'backend',
         url: 'https://we-love-movies-frontend-red.vercel.app/',
         url2: 'https://github.com/EthenThinkful/WeLoveMovies'
@@ -41,7 +41,7 @@ export const projectsData = [
     {
         id: 5,
         image: Work5,
-        title: 'Study card application',
+        title: 'Study Card Application',
         category: 'frontend',
         url2: 'https://github.com/EthenThinkful/FlashCardApp'
     },
