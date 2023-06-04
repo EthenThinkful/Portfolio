@@ -15,11 +15,10 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            I am eager to gain further experience as a
-            junior developer and am diligently working towards my growth through
-            refining my technical and general skills. I am interested in any
-            opportunities which prize innovation, dedication, growth, and
-            communication. 
+            I am eager to gain professional experience as a junior developer and
+            am interested in any opportunities which prize innovation,
+            dedication, growth, and communication! Please don’t hesitate to
+            reach out!
           </p>
           <a
             download=""

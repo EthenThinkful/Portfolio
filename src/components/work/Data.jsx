@@ -1,8 +1,9 @@
 import Work1 from "../../assets/assets/restaurantReservations.png";
-import Work2 from "../../assets/assets/clinicals.PNG";
-import Work3 from "../../assets/assets/weLoveMovies.png";
-import Work4 from "../../assets/assets/grubDash.png";
+import Work2 from "../../assets/assets/optichads.PNG";
+import Work3 from "../../assets/assets/weLoveMoviesRe.png";
+import Work4 from "../../assets/assets/clinicals.PNG";
 import Work5 from "../../assets/assets/flashCardApp.png";
+import Work6 from "../../assets/assets/grubDash.png";
 
 export const projectsData = [
     {
@@ -16,10 +17,10 @@ export const projectsData = [
     {
         id: 2,
         image: Work2,
-        title: 'Clinical Data Logger',
+        title: 'OptiChads NFT Marketplace',
         category: 'fullstack',
-        url: 'http://clinicaldataloggerfe.s3-website-us-east-1.amazonaws.com/',
-        url2: 'https://github.com/EthenThinkful/ClinicalDataLoggerBackend'
+        url: 'https://optichads.vercel.app/',
+        url2: 'https://github.com/DistractionBoy/optichads'
     },
     {
         id: 3,
@@ -32,10 +33,10 @@ export const projectsData = [
     {
         id: 4,
         image: Work4,
-        title: 'GrubDash',
-        category: 'backend',
-        url: 'https://grub-dash-front-end-tawny.vercel.app/',
-        url2: 'https://github.com/EthenThinkful/GrubDash'
+        title: 'Clinical Data Logger',
+        category: 'fullstack',
+        url: 'http://clinicaldataloggerfe.s3-website-us-east-1.amazonaws.com/',
+        url2: 'https://github.com/EthenThinkful/ClinicalDataLoggerBackend'
     },
     {
         id: 5,
@@ -43,6 +44,14 @@ export const projectsData = [
         title: 'Study card application',
         category: 'frontend',
         url2: 'https://github.com/EthenThinkful/FlashCardApp'
+    },
+    {
+        id: 6, 
+        image: Work6,
+        title: 'GrubDash',
+        category: 'backend',
+        url: 'https://grub-dash-front-end-tawny.vercel.app/',
+        url2: 'https://github.com/EthenThinkful/GrubDash'
     }
 ]
 
