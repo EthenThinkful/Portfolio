@@ -1,5 +1,5 @@
 import Work1 from "../../assets/assets/restaurantReservations.png";
-import Work2 from "../../assets/assets/optichads.PNG";
+import Work2 from "../../assets/assets/arbibabesPortfolio.PNG";
 import Work3 from "../../assets/assets/weLoveMoviesRe.png";
 import Work4 from "../../assets/assets/clinicals.PNG";
 import Work5 from "../../assets/assets/flashCardAppRe.png";
