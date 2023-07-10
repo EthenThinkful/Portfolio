@@ -17,9 +17,9 @@ export const projectsData = [
     {
         id: 2,
         image: Work2,
-        title: 'OptiChads (NFT Promo Site)',
+        title: 'Arbibabes (NFT Promo Site)',
         category: 'frontend',
-        url: 'https://optichads.vercel.app/',
+        url: 'https://optichads.vercel.app/babes',
         url2: 'https://github.com/DistractionBoy/optichads'
     },
     {
