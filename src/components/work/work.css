@@ -1,3 +1,9 @@
+.work__desc { 
+    width: 20rem;
+    margin-bottom: var(--mb-0-5);
+    font-size: var(--small-font-size);
+}
+
 .work__filters {
     display: flex;
     justify-content: center;
@@ -26,11 +32,6 @@
     justify-content: center;
 }
 
-.link__container {
-    display: flex;
-    justify-content: space-between;
-}
-
 .work__card {
     background-color: var(--container-color);
     border: 1px solid rgba(0, 0, 0, 0.1);
@@ -48,6 +49,11 @@
     font-size: var(--normal-font-size);
     font-weight: var(--font-medium);
     margin-bottom: var(--mb-0-5);
+}
+
+.link__container {
+    display: flex;
+    justify-content: space-between;
 }
 
 .work__button {
