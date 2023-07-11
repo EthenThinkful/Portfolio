@@ -1,3 +1,7 @@
+h3 {
+    margin: 0;
+}
+
 .work__desc { 
     width: 20rem;
     margin-bottom: var(--mb-0-5);
@@ -43,6 +47,7 @@
     width: 295px;
     border-radius: 1rem;
     margin-bottom: var(--mb-1);
+    justify-content: center;
 }
 
 .work__title {

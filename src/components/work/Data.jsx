@@ -22,7 +22,7 @@ export const projectsData = [
         category: 'frontend',
         url: 'https://optichads.vercel.app/babes',
         url2: 'https://github.com/DistractionBoy/optichads',
-        description: 'Learned Typescript & Next.js, an advanced react based framework, by contributing to frontend tickets per the development team.'
+        description: 'Learned Typescript & Next.js, by contributing to frontend tickets per the development team.'
     },
     {
         id: 3,
@@ -31,7 +31,7 @@ export const projectsData = [
         category: 'backend',
         url: 'https://we-love-movies-frontend-red.vercel.app/',
         url2: 'https://github.com/EthenThinkful/WeLoveMovies',
-        description: "Created to demonstrate my understanding of backend code and RESTful principles per Thinkful's cirriculum."
+        description: "Created an API to demonstrate my understanding of backend code and RESTful principles."
     },
     {
         id: 4,
@@ -40,7 +40,7 @@ export const projectsData = [
         category: 'fullstack',
         url: 'http://clinicaldataloggerfe.s3-website-us-east-1.amazonaws.com/',
         url2: 'https://github.com/EthenThinkful/ClinicalDataLoggerBackend',
-        description: 'After learning Java & Spring, decided to make a simplistic full stack app utilizing a Spring built API, React, & AWS.'
+        description: 'After learning Java & Spring, built a full stack app with a Spring Boot API, React, & AWS.'
     },
     {
         id: 5,
@@ -57,7 +57,7 @@ export const projectsData = [
         category: 'backend',
         url: 'https://grub-dash-front-end-tawny.vercel.app/',
         url2: 'https://github.com/EthenThinkful/GrubDash', 
-        description: "This project tested my ability to build APIs with complex validation, per Thinkful's cirriculum, & connecting to a frontend."
+        description: "built an API with complex validation & connected it to a frontend that was developed by the frontend team."
     }
 ]
 
