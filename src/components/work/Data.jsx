@@ -21,7 +21,6 @@ export const projectsData = [
         title: 'Arbibabes (NFT Promo Site)',
         category: 'frontend',
         url: 'https://optichads.vercel.app/babes',
-        url2: 'https://github.com/DistractionBoy/optichads',
         description: 'Learned Typescript & Next.js, by contributing to frontend tickets per the development team.'
     },
     {
