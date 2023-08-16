@@ -3,7 +3,7 @@ h3 {
 }
 
 .work__desc { 
-    width: 17rem;
+    width: 18rem;
     margin-bottom: var(--mb-0-5);
     font-size: var(--small-font-size);
 }
@@ -67,7 +67,7 @@ h3 {
 .link__container1 {
     display: flex;
     justify-content: space-between;
-    margin-top: 3rem;
+    margin-top: 2rem;
 }
 
 .work__button {

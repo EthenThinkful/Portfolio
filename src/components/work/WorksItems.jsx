@@ -10,11 +10,17 @@ const WorksItems = ({item}) => {
                 Github <i className="bx bx-right-arrow-alt work__button-icon">
             </i>
             </a> :
-            item.id === 7 ?  
+            
+            item.id === 7 ? 
+            <div className="link__container"> 
             <a href={item.url} className="work__button">
                 Demo <i className="bx bx-right-arrow-alt work__button-icon">
             </i>
-            </a> : 
+            </a>
+            <a href={item.url2} className="work__button">
+            Privated Github Link<i className="uil uil-github work__button-icon"></i>
+        </a>
+            </div> : 
             item.id === 1 ?
             <div className="link__container1">
             <a href={item.url} className="work__button">
