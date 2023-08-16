@@ -9,8 +9,8 @@ const Data = () => {
       </h1>
       <h3 className="home__subtitle">Software Engineer</h3>
       <p className="home__description">
-            Hi there! I'm Ethen, a Self-taught / Boot Camp
-            graduate with over a year of experience developing websites and
+            Hi there! I'm Ethen, a self-taught/boot camp
+            graduate with almost 2 years of experience developing websites and
             full stack applications.
       </p>
 
