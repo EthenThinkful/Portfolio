@@ -10,7 +10,7 @@ const WorksItems = ({item}) => {
                 Github <i className="bx bx-right-arrow-alt work__button-icon">
             </i>
             </a> :
-            item.id === 2 ?  
+            item.id === 7 ?  
             <a href={item.url} className="work__button">
                 Demo <i className="bx bx-right-arrow-alt work__button-icon">
             </i>

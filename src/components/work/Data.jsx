@@ -1,9 +1,10 @@
 import Work1 from "../../assets/assets/restaurantReservations.png";
-import Work2 from "../../assets/assets/arbibabesPortfolio.PNG";
+import Work2 from "../../assets/assets/pokemonAPIject.png";
 import Work3 from "../../assets/assets/weLoveMoviesRe.png";
 import Work4 from "../../assets/assets/clinicals.PNG";
 import Work5 from "../../assets/assets/flashCardAppRe.png";
 import Work6 from "../../assets/assets/grubDashRe.png";
+import Work7 from "../../assets/assets/arbibabesPortfolio.PNG";
 
 export const projectsData = [
     {
@@ -18,10 +19,11 @@ export const projectsData = [
     {
         id: 2,
         image: Work2,
-        title: 'Arbibabes (NFT Promo Site)',
-        category: 'frontend',
-        url: 'https://optichads.vercel.app/babes',
-        description: 'Learned Typescript & Next.js, by contributing to frontend tickets per the development team.'
+        title: 'PokemonAPIJect',
+        category: 'fullstack',
+        url: 'https://candid-tiramisu-895796.netlify.app/',
+        url2: 'https://github.com/EthenThinkful/PokemonAPIject', 
+        description: 'Passion project primarily being developed as a learning tactic for resourcing documentation as opposed to stack overflow and tutorials.'
     },
     {
         id: 3,
@@ -57,7 +59,15 @@ export const projectsData = [
         url: 'https://grub-dash-front-end-tawny.vercel.app/',
         url2: 'https://github.com/EthenThinkful/GrubDash', 
         description: "built an API with complex validation & connected it to a frontend that was developed by the frontend team."
-    }
+    },
+    {
+        id: 7,
+        image: Work7,
+        title: 'Arbibabes (NFT Promo Site)',
+        category: 'frontend',
+        url: 'https://optichads.vercel.app/babes',
+        description: 'Learned Typescript & Next.js, by contributing to frontend tickets per the development team.'
+    },
 ]
 
 export const projectsNav = [
