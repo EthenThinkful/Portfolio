@@ -14,7 +14,17 @@ const WorksItems = ({item}) => {
             <a href={item.url} className="work__button">
                 Demo <i className="bx bx-right-arrow-alt work__button-icon">
             </i>
-            </a> :
+            </a> : 
+            item.id === 1 ?
+            <div className="link__container1">
+            <a href={item.url} className="work__button">
+            Demo <i className="bx bx-right-arrow-alt work__button-icon">
+            </i>
+        </a>
+        <a href={item.url2} className="work__button">
+            Github <i className="uil uil-github work__button-icon"></i>
+        </a>
+        </div> :
             <div className="link__container">
             <a href={item.url} className="work__button">
             Demo <i className="bx bx-right-arrow-alt work__button-icon">
