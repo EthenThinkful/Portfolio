@@ -19,7 +19,7 @@ export const projectsData = [
     {
         id: 2,
         image: Work2,
-        title: 'PokemonAPIJect',
+        title: 'Poke Booklets',
         category: 'fullstack',
         url: 'https://candid-tiramisu-895796.netlify.app/',
         url2: 'https://github.com/EthenThinkful/PokemonAPIject', 

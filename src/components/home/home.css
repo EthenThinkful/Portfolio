@@ -113,6 +113,18 @@
      color: var(--title-color);
 }
 
+.logo {
+    width: 2rem;
+    height: 2rem;
+    padding: 0 var(--mb-0-25);
+}
+
+.logo__container {
+    display: flex;
+    align-items: center;
+    margin-top: var(--mb-1-5);
+}
+
 /*=============== BREAKPOINTS ===============*/
 /* For large devices */
 @media screen and (max-width: 992px) {
