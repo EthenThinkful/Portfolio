@@ -19,7 +19,7 @@ const About = () => {
             have not limited myself since graduating and have been adamant with
             my independent studies and project work. I prefer to work
             collaboratively on projects, where the team can learn from each
-            other and enjoy the process of learning by applying; every new
+            other and enjoy the process of learning by applying. In every new
             project I develop I try to include something I haven’t learned yet.
             I’m a firm believer in this approach for anything in life.
           </p>
