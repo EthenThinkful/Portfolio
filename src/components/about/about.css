@@ -1,5 +1,4 @@
 .about__container {
-    /* align-items: center; */
     column-gap: 4rem;
     display: flex;
 }
@@ -58,13 +57,12 @@
         margin-left: auto;
         margin-bottom: var(--mb-2);
         text-align: center;
-        margin-right: 2rem;
     }
 
     .about__container {
-        /* align-items: center; */
-        column-gap: 4rem;
         display: flex;
+        justify-content: center;
+        align-items: center;
     }
 
     .about__grid {
