@@ -16,39 +16,39 @@ const WorksItems = ({ item }) => {
             <div className="work__desc">{item.description}</div>
             {item.id === 5 ? (
               <div className="link__container">
-                <a href={item.url2} className="work__button">
+                <a href={item.url2} target="_blank" rel="noopener noreferrer" className="work__button">
                   Github{" "}
                   <i className="bx bx-right-arrow-alt work__button-icon"></i>
                 </a>
               </div>
             ) : item.id === 7 ? (
               <div className="link__container">
-                <a href={item.url} className="work__button">
+                <a href={item.url} target="_blank" rel="noopener noreferrer" className="work__button">
                   Demo{" "}
                   <i className="bx bx-right-arrow-alt work__button-icon"></i>
                 </a>
-                <a href={item.url2} className="work__button">
+                <a href={item.url2} target="_blank" rel="noopener noreferrer" className="work__button">
                   Privated Github Link
                   <i className="uil uil-github work__button-icon"></i>
                 </a>
               </div>
             ) : item.id === 1 ? (
               <div className="link__container">
-                <a href={item.url} className="work__button">
+                <a href={item.url} target="_blank" rel="noopener noreferrer" className="work__button">
                   Demo{" "}
                   <i className="bx bx-right-arrow-alt work__button-icon"></i>
                 </a>
-                <a href={item.url2} className="work__button">
+                <a href={item.url2} target="_blank" rel="noopener noreferrer" className="work__button">
                   Github <i className="uil uil-github work__button-icon"></i>
                 </a>
               </div>
             ) : (
               <div className="link__container">
-                <a href={item.url} className="work__button">
+                <a href={item.url} target="_blank" rel="noopener noreferrer" className="work__button">
                   Demo{" "}
                   <i className="bx bx-right-arrow-alt work__button-icon"></i>
                 </a>
-                <a href={item.url2} className="work__button">
+                <a href={item.url2} target="_blank" rel="noopener noreferrer" className="work__button">
                   Github <i className="uil uil-github work__button-icon"></i>
                 </a>
               </div>
@@ -68,39 +68,39 @@ const WorksItems = ({ item }) => {
             <div className="work__desc">{item.description}</div>
             {item.id === 5 ? (
               <div className="link__container">
-                <a href={item.url2} className="work__button">
+                <a href={item.url2} target="_blank" rel="noopener noreferrer" className="work__button">
                   Github{" "}
                   <i className="bx bx-right-arrow-alt work__button-icon"></i>
                 </a>
               </div>
             ) : item.id === 7 ? (
               <div className="link__container">
-                <a href={item.url} className="work__button">
+                <a href={item.url} target="_blank" rel="noopener noreferrer" className="work__button">
                   Demo{" "}
                   <i className="bx bx-right-arrow-alt work__button-icon"></i>
                 </a>
-                <a href={item.url2} className="work__button">
+                <a href={item.url2} target="_blank" rel="noopener noreferrer" className="work__button">
                   Privated Github Link
                   <i className="uil uil-github work__button-icon"></i>
                 </a>
               </div>
             ) : item.id === 1 ? (
               <div className="link__container">
-                <a href={item.url} className="work__button">
+                <a href={item.url} target="_blank" rel="noopener noreferrer" className="work__button">
                   Demo{" "}
                   <i className="bx bx-right-arrow-alt work__button-icon"></i>
                 </a>
-                <a href={item.url2} className="work__button">
+                <a href={item.url2} target="_blank" rel="noopener noreferrer" className="work__button">
                   Github <i className="uil uil-github work__button-icon"></i>
                 </a>
               </div>
             ) : (
               <div className="link__container">
-                <a href={item.url} className="work__button">
+                <a href={item.url} target="_blank" rel="noopener noreferrer" className="work__button">
                   Demo{" "}
                   <i className="bx bx-right-arrow-alt work__button-icon"></i>
                 </a>
-                <a href={item.url2} className="work__button">
+                <a href={item.url2} target="_blank" rel="noopener noreferrer" className="work__button">
                   Github <i className="uil uil-github work__button-icon"></i>
                 </a>
               </div>
@@ -120,39 +120,39 @@ const WorksItems = ({ item }) => {
             <div className="work__desc">{item.description}</div>
             {item.id === 5 ? (
               <div className="link__container">
-                <a href={item.url2} className="work__button">
+                <a href={item.url2} target="_blank" rel="noopener noreferrer" className="work__button">
                   Github{" "}
                   <i className="bx bx-right-arrow-alt work__button-icon"></i>
                 </a>
               </div>
             ) : item.id === 7 ? (
               <div className="link__container">
-                <a href={item.url} className="work__button">
+                <a href={item.url} target="_blank" rel="noopener noreferrer" className="work__button">
                   Demo{" "}
                   <i className="bx bx-right-arrow-alt work__button-icon"></i>
                 </a>
-                <a href={item.url2} className="work__button">
+                <a href={item.url2} target="_blank" rel="noopener noreferrer" className="work__button">
                   Privated Github Link
                   <i className="uil uil-github work__button-icon"></i>
                 </a>
               </div>
             ) : item.id === 1 ? (
               <div className="link__container">
-                <a href={item.url} className="work__button">
+                <a href={item.url} target="_blank" rel="noopener noreferrer" className="work__button">
                   Demo{" "}
                   <i className="bx bx-right-arrow-alt work__button-icon"></i>
                 </a>
-                <a href={item.url2} className="work__button">
+                <a href={item.url2} target="_blank" rel="noopener noreferrer" className="work__button">
                   Github <i className="uil uil-github work__button-icon"></i>
                 </a>
               </div>
             ) : (
               <div className="link__container">
-                <a href={item.url} className="work__button">
+                <a href={item.url} target="_blank" rel="noopener noreferrer" className="work__button">
                   Demo{" "}
                   <i className="bx bx-right-arrow-alt work__button-icon"></i>
                 </a>
-                <a href={item.url2} className="work__button">
+                <a href={item.url2} target="_blank" rel="noopener noreferrer" className="work__button">
                   Github <i className="uil uil-github work__button-icon"></i>
                 </a>
               </div>
@@ -172,39 +172,39 @@ const WorksItems = ({ item }) => {
             <div className="work__desc">{item.description}</div>
             {item.id === 5 ? (
               <div className="link__container">
-                <a href={item.url2} className="work__button">
+                <a href={item.url2} target="_blank" rel="noopener noreferrer" className="work__button">
                   Github{" "}
                   <i className="bx bx-right-arrow-alt work__button-icon"></i>
                 </a>
               </div>
             ) : item.id === 7 ? (
               <div className="link__container">
-                <a href={item.url} className="work__button">
+                <a href={item.url} target="_blank" rel="noopener noreferrer" className="work__button">
                   Demo{" "}
                   <i className="bx bx-right-arrow-alt work__button-icon"></i>
                 </a>
-                <a href={item.url2} className="work__button">
+                <a href={item.url2} target="_blank" rel="noopener noreferrer" className="work__button">
                   Privated Github Link
                   <i className="uil uil-github work__button-icon"></i>
                 </a>
               </div>
             ) : item.id === 1 ? (
               <div className="link__container">
-                <a href={item.url} className="work__button">
+                <a href={item.url} target="_blank" rel="noopener noreferrer" className="work__button">
                   Demo{" "}
                   <i className="bx bx-right-arrow-alt work__button-icon"></i>
                 </a>
-                <a href={item.url2} className="work__button">
+                <a href={item.url2} target="_blank" rel="noopener noreferrer" className="work__button">
                   Github <i className="uil uil-github work__button-icon"></i>
                 </a>
               </div>
             ) : (
               <div className="link__container">
-                <a href={item.url} className="work__button">
+                <a href={item.url} target="_blank" rel="noopener noreferrer" className="work__button">
                   Demo{" "}
                   <i className="bx bx-right-arrow-alt work__button-icon"></i>
                 </a>
-                <a href={item.url2} className="work__button">
+                <a href={item.url2} target="_blank" rel="noopener noreferrer" className="work__button">
                   Github <i className="uil uil-github work__button-icon"></i>
                 </a>
               </div>
@@ -225,39 +225,39 @@ const WorksItems = ({ item }) => {
             <div className="work__desc">{item.description}</div>
             {item.id === 5 ? (
               <div className="link__container">
-                <a href={item.url2} className="work__button">
+                <a href={item.url2} target="_blank" rel="noopener noreferrer" className="work__button">
                   Github{" "}
                   <i className="bx bx-right-arrow-alt work__button-icon"></i>
                 </a>
               </div>
             ) : item.id === 7 ? (
               <div className="link__container">
-                <a href={item.url} className="work__button">
+                <a href={item.url} target="_blank" rel="noopener noreferrer" className="work__button">
                   Demo{" "}
                   <i className="bx bx-right-arrow-alt work__button-icon"></i>
                 </a>
-                <a href={item.url2} className="work__button">
+                <a href={item.url2} target="_blank" rel="noopener noreferrer" className="work__button">
                   Privated Github Link
                   <i className="uil uil-github work__button-icon"></i>
                 </a>
               </div>
             ) : item.id === 1 ? (
               <div className="link__container">
-                <a href={item.url} className="work__button">
+                <a href={item.url} target="_blank" rel="noopener noreferrer" className="work__button">
                   Demo{" "}
                   <i className="bx bx-right-arrow-alt work__button-icon"></i>
                 </a>
-                <a href={item.url2} className="work__button">
+                <a href={item.url2} target="_blank" rel="noopener noreferrer" className="work__button">
                   Github <i className="uil uil-github work__button-icon"></i>
                 </a>
               </div>
             ) : (
               <div className="link__container">
-                <a href={item.url} className="work__button">
+                <a href={item.url} target="_blank" rel="noopener noreferrer" className="work__button">
                   Demo{" "}
                   <i className="bx bx-right-arrow-alt work__button-icon"></i>
                 </a>
-                <a href={item.url2} className="work__button">
+                <a href={item.url2} target="_blank" rel="noopener noreferrer" className="work__button">
                   Github <i className="uil uil-github work__button-icon"></i>
                 </a>
               </div>
@@ -277,39 +277,39 @@ const WorksItems = ({ item }) => {
             <div className="work__desc">{item.description}</div>
             {item.id === 5 ? (
               <div className="link__container">
-                <a href={item.url2} className="work__button">
+                <a href={item.url2} target="_blank" rel="noopener noreferrer" className="work__button">
                   Github{" "}
                   <i className="bx bx-right-arrow-alt work__button-icon"></i>
                 </a>
               </div>
             ) : item.id === 7 ? (
               <div className="link__container">
-                <a href={item.url} className="work__button">
+                <a href={item.url} target="_blank" rel="noopener noreferrer" className="work__button">
                   Demo{" "}
                   <i className="bx bx-right-arrow-alt work__button-icon"></i>
                 </a>
-                <a href={item.url2} className="work__button">
+                <a href={item.url2} target="_blank" rel="noopener noreferrer" className="work__button">
                   Privated Github Link
                   <i className="uil uil-github work__button-icon"></i>
                 </a>
               </div>
             ) : item.id === 1 ? (
               <div className="link__container">
-                <a href={item.url} className="work__button">
+                <a href={item.url} target="_blank" rel="noopener noreferrer" className="work__button">
                   Demo{" "}
                   <i className="bx bx-right-arrow-alt work__button-icon"></i>
                 </a>
-                <a href={item.url2} className="work__button">
+                <a href={item.url2} target="_blank" rel="noopener noreferrer" className="work__button">
                   Github <i className="uil uil-github work__button-icon"></i>
                 </a>
               </div>
             ) : (
               <div className="link__container">
-                <a href={item.url} className="work__button">
+                <a href={item.url} target="_blank" rel="noopener noreferrer" className="work__button">
                   Demo{" "}
                   <i className="bx bx-right-arrow-alt work__button-icon"></i>
                 </a>
-                <a href={item.url2} className="work__button">
+                <a href={item.url2} target="_blank" rel="noopener noreferrer" className="work__button">
                   Github <i className="uil uil-github work__button-icon"></i>
                 </a>
               </div>

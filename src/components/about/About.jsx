@@ -16,8 +16,8 @@ const About = () => {
             I am passionate about advancing my skills in the industry through
             hands-on experience. I learned how to code in a tech boot camp where
             the main stack was React, Node, Express, and PostgreSQL. However, I
-            have not limited myself since graduating and have been adamant with
-            my independent studies and project work. I prefer to work
+            have not limited myself since graduating and have been continuously learning
+            through independent studies and project work. I prefer to work
             collaboratively on projects, where the team can learn from each
             other and enjoy the process of learning by applying. In every new
             project I develop I try to include something I haven’t learned yet.
