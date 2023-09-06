@@ -44,7 +44,7 @@ export const projectsData = [
         category: 'fullstack',
         url: 'https://candid-tiramisu-895796.netlify.app/',
         url2: 'https://github.com/EthenThinkful/PokemonAPIject', 
-        description: 'Interact and share your Pokemon card collectibles.',
+        description: 'Interact and share your Pokemon card collectibles. Ongoing passion project, still developing ideas.',
         stack: [reactSvg, postgresqlSvg, javaSvg, springSvg, dockerSvg, tailwindSvg]
     },
     {
